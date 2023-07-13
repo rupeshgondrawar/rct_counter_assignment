@@ -1,0 +1,7 @@
+.counterText{
+    color: aqua;
+    font-size: 25px;
+}
+.btn:hover{
+   background-color: yellowgreen;
+}
